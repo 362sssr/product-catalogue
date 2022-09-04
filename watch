@@ -1,0 +1,75 @@
+<html>
+<head>
+<title>shopping </title><style>
+body{color:white;}
+</style>
+</head>
+<body style="background-color:black;">
+<fieldset style="background-color:orange;">
+<h1><center>WATCHES</center></h1>
+</fieldset>
+<P ALIGN="CENTER">
+<img src="E:\AMMU\naane\legends\WATCHES1.jpg" alt="MIRACULOUS"></P>
+<h2 style="color:red">>>TITAN</h2>
+<p><h2>&#8377   54999-only</h2>
+<h2>15% offer</h2><u><i>
+<h3>extra 25% offer on debit cards</h3></i></u>
+<button onclick="myfunction()">ORDER NOW</button>
+<script>
+function myfunction()
+{
+alert("YOUR ORDER IOS SUCCESSFUL");}
+</script>
+<button onclick="m1myfunc()">add to cart</button>
+<script>
+function m1myfunc()
+{
+alert("SUCCESSFULLY ADDED TO CART");
+}
+</SCRIPT>
+</P>
+<BR><BR><BR>
+<P ALIGN="CENTER">
+<img src="E:\AMMU\naane\legends\watches2.jpg" alt="ATTITUDE">
+</P><h2 style="color:red">>>SMART WATCHES</h2>
+<p><h2>&#8377   80999-only</h2><i><u>
+<h2>5% offer</h2></u></i>
+<button onclick="myfunction()">ORDER NOW</button>
+<script>
+function myfunction()
+{
+alert("YOUR ORDER IOS SUCCESSFUL");}
+</script>
+<button onclick="m1myfunc()">add to cart</button>
+<script>
+function m1myfunc()
+{
+alert("SUCCESSFULLY ADDED TO CART");
+}
+</SCRIPT>
+</P>
+<BR><BR><BR>
+<P ALIGN="CENTER">
+
+<img src="watches3.jpg" alt="SWAG">
+</P><h2 style="color:red">>>SONATA</h2>
+<p><h2>&#8377   80999-only</h2>
+<h2>25% offer</h2><u><i>
+<h3>extra 20% offer on debit cards</h3></i></u>
+<button onclick="myfunction()">ORDER NOW</button>
+<script>
+function myfunction()
+{
+alert("YOUR ORDER IOS SUCCESSFUL");}
+</script>
+<button onclick="m1myfunc()">add to cart</button>
+<script>
+function m1myfunc()
+{
+alert("SUCCESSFULLY ADDED TO CART");
+}
+</SCRIPT>
+</P>
+<BR><BR><BR>
+</BODY>
+</HTML>
